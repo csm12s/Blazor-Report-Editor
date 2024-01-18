@@ -8,24 +8,24 @@
 
 **Excel Report**
 
-1 Select data source
+1, Select data source
 
 ![1 Select data source](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/2b61ab31-502f-488a-872d-c495d0aeef61)
 
-2 Select fields, Generate
+2, Select fields, Generate
 
 ![2 Select fields, Generate](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/4b3d6d21-d4a7-4186-8320-325d49a6ff77)
 
-3 Edit
+3, Edit
 
 ![3 Edit](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/c3cd675d-fa8c-4f8a-a176-62add8dc433f)
 
-4 Report management
+4, Report management
 
 ![4 Report management](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/d5b131b9-b9b1-489b-9551-a5fcd0f782ed)
 
 
-5 Report Template
+5, Report Template
 
 Normal report
 
