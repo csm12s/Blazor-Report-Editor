@@ -1,8 +1,4 @@
-# Blazor-Report-Editor
-Blazor Report Editor (Excel, PDF)
-
-
-Excel report editor, PDF report editor
+**Blazor Report Editor (Excel, PDF)**
 
 ・Server：C# .Net, Entity Framework, Epplus
 
