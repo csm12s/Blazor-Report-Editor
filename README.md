@@ -29,6 +29,18 @@ Excel report editor, PDF report editor
 ![4 Report management](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/d5b131b9-b9b1-489b-9551-a5fcd0f782ed)
 
 
+5 Report Template
+
+Normal report
+
+![normal report](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/3d489394-06f2-4d74-aa47-cc1e718a94c0)
+
+Custom report
+
+![custom report](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/08632003-4889-412f-98aa-aac0f1ef7efc)
+
+
+
 **PDF Report**
 
 DevExpress Blazor Report Designer
