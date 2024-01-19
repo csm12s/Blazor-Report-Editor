@@ -38,8 +38,10 @@ Custom report
 
 6, Report Data Source
 
-Add "ReportDto" attribute to recognize any Dto as a ReportDto/Data Source
-![data source](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/28dc8f5d-86b5-493b-b6b7-e93648318ec6)
+Add ReportDto" attribute to recognize any Dto as a ReportDto/Data Source
+
+![oOSnckHHAY](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/996aafa7-8eba-4731-b9ea-5563761e88c3)
+
 
 
 **PDF Report**
