@@ -48,7 +48,21 @@ DevExpress Blazor Report Designer
 
 (Connect via Microservice)
 
+Normal Report:
+
 ![5 Report - DevExpress Blazor Report Designer](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/630ce97d-3041-4fb1-a5a2-8a2f3a99fd94)
+
+Label Report:
+
+![eTmnFmSUTT](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/eb3b18bd-be66-4c83-8286-0b4b66d0c6f8)
+
+Other Type:
+
+See more in the link 
+https://demos.devexpress.com/XtraReportsDemos/Default.aspx
+
+![y2vwo3yjGo](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/0868f064-75eb-4004-a06c-2a8545553b38)
+
 
 
 End
