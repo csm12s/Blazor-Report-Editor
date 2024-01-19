@@ -1,4 +1,4 @@
-**Blazor Report Editor (Excel, PDF)**
+**Blazor Report Editor (Excel, PDF/Label...)**
 
 ・Server：C# .Net, Entity Framework, Epplus
 
