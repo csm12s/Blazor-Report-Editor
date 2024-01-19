@@ -56,7 +56,8 @@ Normal Report:
 
 Label Report:
 
-![eTmnFmSUTT](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/eb3b18bd-be66-4c83-8286-0b4b66d0c6f8)
+![bkxtXxyy3j](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/edfeb987-1684-47ea-8db1-cbe683334d63)
+
 
 Other Type:
 
