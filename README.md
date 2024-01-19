@@ -36,10 +36,17 @@ Custom report
 ![custom report](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/08632003-4889-412f-98aa-aac0f1ef7efc)
 
 
+6, Report Data Source
+
+Add "ReportDto" attribute to recognize any Dto as a ReportDto/Data Source
+![data source](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/28dc8f5d-86b5-493b-b6b7-e93648318ec6)
+
 
 **PDF Report**
 
-DevExpress Blazor Report Designer
+DevExpress Blazor Report Designer 
+
+(Connect via Microservice)
 
 ![5 Report - DevExpress Blazor Report Designer](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/630ce97d-3041-4fb1-a5a2-8a2f3a99fd94)
 
