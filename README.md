@@ -67,7 +67,8 @@ https://demos.devexpress.com/XtraReportsDemos/Default.aspx
 
 **API Flow**
 
-![pV9ZmiPLvB](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/0af17e84-5a4a-4378-b503-45dc565755ba)
+![nksurNRbXb](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/34353007-c89b-43e3-9d8d-8be51c28e222)
+
 
 
 End
