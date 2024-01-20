@@ -46,9 +46,7 @@ Add ReportDto" attribute to recognize any Dto as a ReportDto/Data Source
 
 **PDF Report**
 
-DevExpress Blazor Report Designer 
-
-(Connect via Microservice)
+DevExpress Blazor Report Designer (Connect via Microservice)
 
 Normal Report:
 
