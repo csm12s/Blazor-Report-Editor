@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" modified="2024-01-20T02:40:18.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4cv4_k786RbwIj_Dr7wz" version="22.1.21" type="device">
+  <diagram name="Page-1" id="j9rjXyHZkHXLFg0L63g9">
+    <mxGraphModel dx="1902" dy="964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="MES Front End" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=42;" parent="1" vertex="1">
+          <mxGeometry x="-5" y="-90" width="150" height="521" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="MES Back End" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=41;" parent="1" vertex="1">
+          <mxGeometry x="171" y="-90" width="150" height="521" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Report Microservice" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=44;" parent="1" vertex="1">
+          <mxGeometry x="347" y="15" width="150" height="518" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="ReportingController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=38;" parent="1" vertex="1">
+          <mxGeometry x="520" y="44" width="159" height="519" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Send Data" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="85" />
+            </Array>
+            <mxPoint x="245.07142857142844" y="106.5" as="sourcePoint" />
+            <mxPoint x="421.5000000000002" y="106.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Return Report Url" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" parent="1" edge="1">
+          <mxGeometry x="0.2901" y="-9" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="601" y="218" />
+            </Array>
+            <mxPoint x="422.0014285714282" y="218" as="sourcePoint" />
+            <mxPoint x="69.07142857142867" y="218" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Request Report Url" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="277" />
+            </Array>
+            <mxPoint x="69.07142857142867" y="277" as="sourcePoint" />
+            <mxPoint x="421.5000000000002" y="277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Get Saved Report" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" parent="1" target="2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="421.07142857142844" y="330" as="sourcePoint" />
+            <mxPoint x="791.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CustomReportStorageWebExtension&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="141.99565761021222" y="323.99902182442804" width="225" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-18" value="Request Data" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="32" />
+            </Array>
+            <mxPoint x="69.07142857142844" y="53.5" as="sourcePoint" />
+            <mxPoint x="245.50000000000023" y="53.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-19" value="Save Data, Create New Report" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="138" />
+            </Array>
+            <mxPoint x="422.07142857142844" y="159.5" as="sourcePoint" />
+            <mxPoint x="598.5000000000002" y="159.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-20" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="561.5" y="-110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-21" value="MES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="591.5" y="-82" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-23" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="713" y="27" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-24" value="Report Microservice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="743" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-25" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="262" y="-42" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="633" y="88" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-42" value="MES Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="312" y="-38" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-43" value="Report&lt;br&gt;&amp;nbsp;Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="592" y="125" width="133" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GWy2PqK0Nmz1Omkhwzc0-45" value="" style="shape=link;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-7" y="1" as="sourcePoint" />
+            <mxPoint x="688.5648775828031" y="2.535925559010707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
