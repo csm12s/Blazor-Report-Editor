@@ -42,6 +42,12 @@ Add ReportDto" attribute to recognize any Dto as a ReportDto/Data Source
 
 ![oOSnckHHAY](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/996aafa7-8eba-4731-b9ea-5563761e88c3)
 
+7, Supported feature
+
+String, Number, Image, Formula...
+
+![image](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/8bfa3731-86ac-499d-a32f-3056fd1e433f)
+
 
 
 **PDF Report**
