@@ -78,7 +78,7 @@ https://demos.devexpress.com/XtraReportsDemos/Default.aspx
 
 **History**
 
-1, PDF Label Print System
+1, WPF Label Print System
 
 C#.Net WPF, XAML Template, System.Printing.PrintQueue
 
