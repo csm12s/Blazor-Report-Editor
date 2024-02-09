@@ -76,6 +76,25 @@ https://demos.devexpress.com/XtraReportsDemos/Default.aspx
 ![PKd21jKhBH](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/97c8d37f-22f0-4226-b3e4-055a8adc8d8c)
 
 
+**History**
+
+1, PDF Label Print System
+
+C#.Net WPF, XAML Template, System.Printing.PrintQueue
+
+XAML Template:
+
+![image](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/4b41017a-2d4c-4ef5-ab97-c390d8605d0b)
+
+Print Page:
+
+![image](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/99664b62-21a6-4216-b19f-a6766ce312c7)
+
+
+2, XML Template
+
+![image](https://github.com/csm12s/Blazor-Report-Editor/assets/64699457/3b1a0f61-019e-47d8-b922-599316fb3350)
+
 
 End
 
